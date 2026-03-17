@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Lead</h4>
+                <h5>DevUp College Club</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2023 - Present</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Led 5+ workshops and hackathons with 150+ participants. Mentored 30+ students in full-stack development and increased engagement by 40%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Coordinator</h4>
+                <h5>Competitive Programming</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2023 - Present</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Organized 10+ coding contests, improved student performance by 25%, and increased participation by 40%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Achievements</h4>
+                <h5>Milestones & Hackathons</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Solved 500+ DSA problems. LeetCode Rating: 1615. CodeChef Rating: 1430. Smart India Hackathon Finalist. Innotech Hackathon Finalist (Top 4).
             </p>
           </div>
         </div>

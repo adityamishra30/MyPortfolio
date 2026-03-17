@@ -6,11 +6,14 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          💫 About Me:<br />
+          🚀 Aspiring Full Stack Developer | B.Tech CSE (AI/ML) '27<br /><br />
+          I'm Aditya Narayan Mishra, a Computer Science & Engineering (AI/ML) student at KIET Group of Institutions, Ghaziabad, driven by one goal: building scalable, high-impact web applications that solve real problems.<br /><br />
+          💻 What I Build — specializing in full-stack:<br />Backend: Java, Spring Boot, REST APIs, MySQL | Frontend: React.js, JavaScript, Tailwind CSS<br /><br />
+          🧠 500+ DSA problems solved on LeetCode and CodeChef<br /><br />
+          🚀 Built real-time and AI-powered full-stack apps including ride-sharing and chat platforms. K72 Lead at DevUp College Club.<br /><br />
+          🌱 Currently exploring: Advanced Spring Boot, AI/ML integration, production-ready code<br /><br />
+          🔍 Open to internships in Full Stack Development, Software Engineering, and AI-driven products.
         </p>
       </div>
     </div>
