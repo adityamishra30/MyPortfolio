@@ -8,19 +8,19 @@ const projects = [
     title: "Uber Clone",
     category: "Ride Booking System",
     tools: "React, Node.js, MongoDB, Socket.io",
-    image: "/images/Solidx.png",
+    image: "/images/uber.png",
   },
   {
     title: "Chat Application",
     category: "Real-time Messaging",
     tools: "React.js, Node.js, Express.js, Socket.io, MongoDB, Cloudinary",
-    image: "/images/radix.png",
+    image: "/images/chatapp.png",
   },
   {
     title: "Damage Vision AI",
     category: "Vehicle Damage Detection",
     tools: "Python, Flask, TensorFlow, YOLO",
-    image: "/images/bond.png",
+    image: "/images/vehicledamage.png",
   },
 ];
 
