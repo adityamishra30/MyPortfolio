@@ -10,7 +10,6 @@ Hi, I'm **Aditya Narayan Mishra**, a B.Tech CSE (AI/ML) student at KIET Group of
 
 - 🔭 Currently exploring: Advanced Spring Boot, AI/ML integration in web apps
 - 🧠 500+ DSA problems solved on LeetCode & CodeChef
-- 🎯 K72 Lead at **DevUp College Club**
 - 📫 Open to internships in Full Stack, Software Engineering & AI-driven products
 
 ---
