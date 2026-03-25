@@ -5,21 +5,21 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Uber Clone Application",
-    category: "Real-time tracking & payments",
-    tools: "MERN Stack, Socket.io, Stripe",
+    title: "Chat Application",
+    category: "Real-time messaging & Auth",
+    tools: "MERN Stack, Socket.io",
     image: "/images/Solidx.png",
   },
   {
-    title: "Employee Management",
-    category: "REST API Architecture",
-    tools: "React, Spring Boot, MySQL",
+    title: "Uber Clone",
+    category: "Real-time tracking & ride-sharing",
+    tools: "MERN Stack, APIs, Map Integration",
     image: "/images/radix.png",
   },
   {
     title: "Damage Vision AI",
-    category: "Vehicle Damage Detection",
-    tools: "YOLOv8, Flask, TensorFlow",
+    category: "Deep learning damage detection (63% precision)",
+    tools: "Python, PyTorch, YOLOv8, OpenCV",
     image: "/images/bond.png",
   },
 ];

@@ -87,22 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>FRONTEND & CORE</h3>
+              <h4>Building Interfaces & Logic</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                Specialized in building engaging UIs using React and Tailwind.
+                Crafting performant, responsive interfaces and solving complex algorithmic challenges.
+                Proficient in modern frontend frameworks and core programming languages.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">Tailwind CSS</div>
-                <div className="what-tags">GSAP</div>
-                <div className="what-tags">Framer Motion</div>
                 <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Responsive Design</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Java</div>
+                <div className="what-tags">C++</div>
+                <div className="what-tags">Python</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +124,26 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>BACKEND & AI</h3>
+              <h4>Scalable Systems & Intelligence</h4>
               <p>
-                Designing robust APIs and microservices. From RESTful endpoints to
-                scalable database architectures, I build backends that perform.
+                Designing robust APIs, scalable databases, and integrating Machine Learning models.
+                I build scalable systems that perform and intelligent solutions.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
                 <div className="what-tags">Express.js</div>
-                <div className="what-tags">Spring Boot</div>
+                <div className="what-tags">REST APIs</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">MySQL</div>
-                <div className="what-tags">Firebase</div>
-                <div className="what-tags">Java</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">TensorFlow</div>
+                <div className="what-tags">PyTorch</div>
+                <div className="what-tags">YOLOv8</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">Git & GitHub</div>
+                <div className="what-tags">Postman</div>
               </div>
               <div className="what-arrow"></div>
             </div>

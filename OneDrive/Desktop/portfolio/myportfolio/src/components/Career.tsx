@@ -15,42 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Started Programming Journey</h4>
-                <h5>High School</h5>
+                <h4>Lead — DevUp College Club</h4>
+                <h5>Workshops & Tech Community</h5>
               </div>
-              <h3>2021</h3>
+              <h3>PRESENT</h3>
             </div>
             <p>
-              Built strong foundations in problem-solving and logic. Began learning
-              C/C++ and exploring core programming concepts before entering university.
+              Organized and led technical workshops and hackathons. Mentored students in full-stack development and DSA, and collaborated on real-world software projects.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.Tech CSE (AI/ML)</h4>
-                <h5>Agra, Uttar Pradesh</h5>
+                <h4>Projects-Based Experience</h4>
+                <h5>MERN Stack & AI Integration</h5>
+              </div>
+              <h3>2024</h3>
+            </div>
+            <p>
+              Built multiple production-level MERN and ML applications. Experience integrating AI models into web apps. Strong in REST APIs, backend design, and deployment.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Competitive Programming Coordinator</h4>
+                <h5>DSA Mentorship</h5>
               </div>
               <h3>2023</h3>
             </div>
             <p>
-              Started Bachelor of Technology in Computer Science, specializing in
-              AI & Machine Learning. Focused on mastering Data Structures and Algorithms.
-              Currently solved 500+ problems.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Aspiring Full Stack Developer</h4>
-                <h5>Projects & Skill Building</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building scalable real-world web applications. Leveraging the MERN
-              stack, Spring Boot, and cutting-edge tech like YOLOv8 frameworks to
-              develop impactful solutions.
+              Guided 20+ students in DSA and problem-solving sessions. Played a key role in improving the coding culture and boosting contest participation.
             </p>
           </div>
         </div>
